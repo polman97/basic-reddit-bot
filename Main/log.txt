@@ -1,0 +1,9 @@
+[22:37:38]: b'logged in successfully to: Jenna_kittens'
+[22:37:38]: b'Subreddit selected: Jokes'
+[22:37:39]: b'post selected: Proof that weed is better than alcohol.'
+[22:37:40]: b"Comment Selected: not funny, just true: drunks wake up with hangovers; going to bed high get you a good night's sleep with magical dreams, and you wake up feeling fresh and alert."
+[22:37:42]: b"Response received from openAi: not gonna lie, waking up feeling fresh and alert is great, but have you ever woken up with a full-on interpretive dance routine to your hilarious alcohol-induced dreams? it's definitely a unique way to start the day"
+[22:37:42]: b"Ai response gotten: not gonna lie, waking up feeling fresh and alert is great, but have you ever woken up with a full-on interpretive dance routine to your hilarious alcohol-induced dreams? it's definitely a unique way to start the day"
+[22:37:42]: b'reply posted successfully.'
+[22:37:42]: b'The current comment karma of Jenna_kittens is: 38'
+[22:37:42]: b'waiting 0:26:17 minutes to post again'
